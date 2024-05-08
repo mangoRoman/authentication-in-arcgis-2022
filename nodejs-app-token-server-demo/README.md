@@ -12,7 +12,7 @@ If you use ArcGIS and need a more secure authentication method than API keys, ap
 
 Make a copy of this folder.
 
-1. Install the dependencies with `nm install`.
+1. Install the dependencies with `npm install`.
 
 2. Log in with your ArcGIS Developer account at https://developers.arcgis.com. Create a new [OAuth 2.0 application definition](https://developers.arcgis.com/applications) (you can use an existing app.) Copy the **Client ID** and **Client Secret**.
 
